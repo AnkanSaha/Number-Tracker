@@ -10,6 +10,10 @@ To Use This service, First Download this code, via this line :-
  After Download this File, run this command in same directory :- 
  
     cd Number-Tracker
+    
+After changing the directory, open Private folder & then, edit the opencageapi.txt & remove this text and paste your API key in this file.
+
+        cd Private
 
 After run those commands, run this command to install all depandencies : -
 
