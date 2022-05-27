@@ -17,7 +17,7 @@ After changing the directory, open Private folder & then, edit the opencageapi.t
 
 After run those commands, run this command to install all depandencies : -
 
-    pip install requirements.txt
+    pip install -r requirements.txt
     
  After run all command that mentioned in top, lastly run this command :- 
  
